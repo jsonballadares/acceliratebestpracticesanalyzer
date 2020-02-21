@@ -30,7 +30,7 @@ namespace UiPath.Studio.RulesLibrary
         public static string ST_ACC_009_Recomendation = "The name should contain ONLY alphabetic characters. The name should be derived from a valid name and should be no shorter than 3 characters and not exceed 10 characters.";
         public static string ST_ACC_009_DocumentationLink = "Accelirate.com";
         public static string ST_ACC_009_ErrorFormatActivityVariableName = "Variable: {0} contains non-alphabetic characters.";
-        public static string ST_ACC_009_ErrorFormatActivityVariableLength = "Variable: {0} should be no shorter than 3 characters and not exceed 10 characters.";
+        public static string ST_ACC_009_ErrorFormatActivityVariableLength = "Variable: {0} should be no shorter than {1} characters and not exceed {2} characters.";
         
         /*
          * Project Layout Rules
